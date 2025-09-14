@@ -178,7 +178,7 @@ Passionate data professional who bridges the gap between business questions and 
 
 I'm always excited to discuss data science, machine learning, SQL analytics, and business intelligence projects!
 
-- 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/gokhanfidan)
+- 💼 **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/gokhan-fidan-2665ba224/)
 - 📧 **Email**: [gokhan.fidan4@gmail.com](mailto:gokhan.fidan4@gmail.com)
 - 🐱 **GitHub**: You're already here! Explore my repositories for detailed project implementations
 - 💬 **Open for**: Data science collaborations, ML engineering opportunities, and analytics consulting
