@@ -139,13 +139,13 @@ Passionate data professional who bridges the gap between business questions and 
 - *Advanced data science methodology and predictive analytics*
 
 ### 🗃️ **Database & SQL**
-[![Pearson](https://img.shields.io/badge/Pearson_VUE-Database_Specialist-blue?style=flat&logo=pearsonvue&logoColor=white)](https://verify.certiport.com)
+[![Certiport](https://img.shields.io/badge/Certiport-Database_Specialist-blue?style=flat&logo=database&logoColor=white)](https://verify.certiport.com)
 **Information Technology Specialist - Databases** (December 2024)
 - *Verified by Certiport/CertNexus - Certificate ID: d7Js-Dwzr*
 - *Advanced SQL, database design, and optimization*
 
 ### 🐍 **Programming & Development** 
-[![Pearson](https://img.shields.io/badge/Pearson_VUE-Python_Specialist-green?style=flat&logo=python&logoColor=white)](https://verify.certiport.com)
+[![Certiport](https://img.shields.io/badge/Certiport-Python_Specialist-green?style=flat&logo=python&logoColor=white)](https://verify.certiport.com)
 **Information Technology Specialist - Python** (January 2025)
 - *Verified by Certiport/CertNexus - Certificate ID: wL9rv-H94r*
 - *Python programming, data structures, and application development*
