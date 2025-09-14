@@ -6,7 +6,7 @@
 🎓 **Certified:** ITU Data Science • Database Specialist • Python Specialist
 
 [![GitHub followers](https://img.shields.io/github/followers/GokhanFidan?label=Follow&style=social)](https://github.com/GokhanFidan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gokhanfidan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gokhan-fidan-2665ba224/)
 [![Email](https://img.shields.io/badge/Email-gokhan.fidan4%40gmail.com-red)](mailto:gokhan.fidan4@gmail.com)
 
 ## 🚀 About Me
@@ -139,32 +139,19 @@ Passionate data professional who bridges the gap between business questions and 
 - *Advanced data science methodology and predictive analytics*
 
 ### 🗃️ **Database & SQL**
-![Pearson](https://img.shields.io/badge/Pearson_VUE-Database_Specialist-blue?style=flat&logo=pearsonvue&logoColor=white)
+[![Pearson](https://img.shields.io/badge/Pearson_VUE-Database_Specialist-blue?style=flat&logo=pearsonvue&logoColor=white)](https://verify.certiport.com)
 **Information Technology Specialist - Databases** (December 2024)
 - *Verified by Certiport/CertNexus - Certificate ID: d7Js-Dwzr*
 - *Advanced SQL, database design, and optimization*
 
 ### 🐍 **Programming & Development** 
-![Pearson](https://img.shields.io/badge/Pearson_VUE-Python_Specialist-green?style=flat&logo=python&logoColor=white)
+[![Pearson](https://img.shields.io/badge/Pearson_VUE-Python_Specialist-green?style=flat&logo=python&logoColor=white)](https://verify.certiport.com)
 **Information Technology Specialist - Python** (January 2025)
 - *Verified by Certiport/CertNexus - Certificate ID: wL9rv-H94r*
 - *Python programming, data structures, and application development*
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GokhanFidan&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GokhanFidan&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GokhanFidan&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Professional Philosophy
 
@@ -183,7 +170,6 @@ Passionate data professional who bridges the gap between business questions and 
 - **🤖 MLOps**: Building automated ML pipelines with monitoring and retraining capabilities
 - **🧠 Advanced Analytics**: Exploring ensemble methods and deep learning applications
 - **📊 Real-time Systems**: Streaming data processing for instant business insights
-- **☁️ Cloud Architecture**: Scalable ML and analytics systems on AWS and Azure
 - **💼 Business Intelligence**: Advanced executive reporting and decision support systems
 
 ---
@@ -202,9 +188,9 @@ I'm always excited to discuss data science, machine learning, SQL analytics, and
 ## 🎯 Professional Availability
 
 **Currently seeking opportunities in:**
+- **Data Analyst** roles with advanced SQL and visualization requirements
 - **Data Scientist** roles with ML engineering components
 - **ML Engineer** positions with data analytics focus  
-- **Data Analyst** roles with advanced SQL and visualization requirements
 - **Consulting** opportunities in fintech, e-commerce, and business intelligence
 
 ---
